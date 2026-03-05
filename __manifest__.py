@@ -1,6 +1,6 @@
 {
     'name': 'Partner Default Language Spanish',
-    'version': '18.0.1.0.0',
+    'version': '19.0.1.0.0',
     'summary': 'Sets company language as default for new contacts',
     'author': 'Custom',
     'category': 'Contact',

@@ -1,6 +1,6 @@
 # Partner Default Language
 
-Módulo personalizado para **Odoo 18** que establece automáticamente el idioma de la empresa como valor por defecto en el campo **Idioma** del modelo `res.partner`.
+Módulo personalizado para **Odoo 19** que establece automáticamente el idioma de la empresa como valor por defecto en el campo **Idioma** del modelo `res.partner`.
 
 ## ¿Qué hace?
 
@@ -31,7 +31,7 @@ Al instalarse, el módulo ejecuta un `post_init_hook` que registra el idioma en 
 
 ## Requisitos
 
-- Odoo 18 Community o Enterprise
+- Odoo 19 Community o Enterprise
 - El idioma deseado debe estar instalado en **Ajustes → Traducciones → Idiomas**
 
 ## Estructura del módulo
